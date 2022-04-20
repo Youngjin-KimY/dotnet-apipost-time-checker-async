@@ -1,0 +1,15 @@
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.csproj.AssemblyReference.cache
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.AssemblyInfoInputs.cache
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.AssemblyInfo.cs
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.csproj.CoreCompileInputs.cache
+/Users/timyjkim/RiderProjects/memo/memo/bin/Debug/net6.0/memo
+/Users/timyjkim/RiderProjects/memo/memo/bin/Debug/net6.0/memo.deps.json
+/Users/timyjkim/RiderProjects/memo/memo/bin/Debug/net6.0/memo.runtimeconfig.json
+/Users/timyjkim/RiderProjects/memo/memo/bin/Debug/net6.0/memo.dll
+/Users/timyjkim/RiderProjects/memo/memo/bin/Debug/net6.0/memo.pdb
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.dll
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/refint/memo.dll
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.pdb
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/memo.genruntimeconfig.cache
+/Users/timyjkim/RiderProjects/memo/memo/obj/Debug/net6.0/ref/memo.dll
